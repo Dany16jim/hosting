@@ -1,0 +1,181 @@
+#titulo{
+    list-style: none;
+}
+
+#Negocio{
+    font-size: 100px;
+    font-family:Georgia, 'Times New Roman', Times, serif
+    color:black;
+    padding: none;
+    display: inline-block;
+     }
+
+
+    header{
+        padding: none;
+        text-align: right;
+    
+    }
+    #empresa{
+        list-style: none;
+    }
+    
+    li{
+        display: inline-block;
+        padding: 0px 50px 0px 0px;
+    }
+    
+    nav{
+    text-align: center;
+        background-color: rgb(224, 181, 208);
+        padding: 1px 0px 1px 0px;
+    }
+    
+    a{
+        text-decoration: none;
+        font-family:Verdana, Geneva, Tahoma, sans-serif;
+        color:aliceblue;
+    }
+    
+    
+    input,button{
+        float: right;
+        display: flex;
+    }
+    
+    input{
+        border-radius:10px; 
+    }
+    #imagen1{
+        width: 17px;
+        height: 18px;
+    }
+    #imagen2{
+        width: 15px;
+        height: 16px;
+    }
+  
+    #logo{
+        margin-left: 1px; }
+
+    #portada{
+        width: 100%;
+        height: 500px;
+    }
+    
+    .texto{
+        font-family: serif;
+        font-weight: bolder;
+        font-size: 65px;
+        color: white;
+    }
+    
+    #escritura{
+        position: absolute;
+        top: 350px;
+        text-align: center;
+    }
+
+    
+    #texto1{
+        font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+        font-weight: bolder;
+        font-style: italic;
+        font-size: 27px;
+        color: white;
+        position: absolute;
+        top: 700px;
+        left: 700px;
+    
+    }
+  
+    .contenedor{
+        overflow-x: scroll;
+        display: inline-block;
+        white-space: nowrap;
+        height: 500px;
+        width: 100%;
+    
+    }
+    
+    
+    .MENU{
+        color:rgb(218, 76, 170);
+        font-family: Arial, Helvetica, sans-serif;
+        font-weight:bold
+        font-size: 50px;
+        padding: 0px 0px 0px 650px;
+    }
+
+    
+    .contenedor2{
+    
+        margin-top:200px ;
+        height: 600px;
+        width: 100%;
+        display: flex;
+    }
+    
+    #diseño{
+        width: 45%;
+    }
+    
+    .hijo
+    {
+    
+        width: 50%;
+        margin-left: 50px;
+        margin-right: 30px;
+    }
+    
+    #DECORACIONES{
+        color:rgb(218, 76, 170);
+        font-family: Arial, Helvetica, sans-serif;
+        font-weight: bold;
+        font-size: 30px;
+        padding: 0px 1500px 30px 0px;
+    
+    }
+    
+    #parrafo1{
+        font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+        font-size: 25px;
+        text-align: justify;
+    }
+    
+    #parrafo2{
+        font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+        font-size: 25px;
+        text-align: justify;
+    }
+    
+    #parrafo3{
+        font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+        font-size: 25px;
+        text-align: justify;
+    }
+    
+
+    footer{
+        margin-top: 60px;
+        border-radius: 8px;
+        background-color:rgb(224, 181, 208);;
+    }
+    
+    
+    
+    
+    .hijo1{
+        
+        width: 600px; 
+        margin: 10px;
+    }
+
+    
+    #terminos{
+        text-align: center;
+        font-family:Verdana, Geneva, Tahoma, sans-serif;
+        color:black;
+        font-size: 16px;
+        padding: 10px 0px 40px 0px;
+    }
